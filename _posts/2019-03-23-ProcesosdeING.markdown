@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Procesos de Ingenieria de Informacion"
-date:   2019-12-01 21:13:42 +0530
+date:   2019-12-19 21:14:00 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 
