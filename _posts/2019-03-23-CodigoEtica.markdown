@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Codigo de ética"
-date:   2019-12-01 21:13:46 +0530
+date:   2019-12-19 21:13:57 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 
