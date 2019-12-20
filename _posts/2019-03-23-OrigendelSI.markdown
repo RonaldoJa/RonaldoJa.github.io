@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Origen de la Ingenieria en Software"
-date:   2019-12-19 21:14:06 +0530
+date:   2019-12-19 21:14:05 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 <h2>Origen de IS</h2>
