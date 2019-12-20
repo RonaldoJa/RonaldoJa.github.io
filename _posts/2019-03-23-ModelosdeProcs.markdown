@@ -15,7 +15,7 @@ categories: Clases IntroduccionAlSoftware
 -Operación y mantenimiento<br>
 El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</p>
 <h2>Modelo Desarrollo Incremental</h2>
-<img src="http://4.bp.blogspot.com/-FZdM824ILRs/UE9bFzLOW6I/AAAAAAAAADU/OG_K7baAh94/s1600/ModeloIncremental_grafica.jpg">  
+<img src="http://marich.blogspot.es/cache/media/files/01/109/382/2016/03/1459223890_incremental.png">  
 <p>-El costo de atender las necesidades cambiantes de los clientes se reduce.<br>
 -Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.<br>
 -Más rápida entrega y despliegue de software de utilidad para el cliente es posible.</p>
