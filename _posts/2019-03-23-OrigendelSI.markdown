@@ -1,10 +1,14 @@
 ﻿---
 layout: post
 title:  "Origen de la Ingenieria en Software"
-date:   2019-12-01 21:13:37 +0530
+date:   2019-12-19 21:14:06 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 <h2>Origen de IS</h2>
-  <p>Ingeniería del Software, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la 
-  OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.</p>
-  
+  <p>Su origen se debió a que el entorno de desarrollo de sistemas software adolecía de: </p>
+  -Retrasos considerables en la planificación.<br>
+  -Poca productividad. <br>
+  -Elevadas cargas de mantenimiento.<br>
+  -Demandas cada vez más desfasadas frente a las ofertas. <br>
+  -Baja calidad y fiabilidad del producto. <br>
+  -Dependencia de los realizadores. <br>
