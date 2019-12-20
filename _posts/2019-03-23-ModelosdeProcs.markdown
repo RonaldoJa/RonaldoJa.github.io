@@ -6,7 +6,7 @@ categories: Clases IntroduccionAlSoftware
 ---
 
 <h2>Modelo Cascada</h2>
- <center><img src="http://3.bp.blogspot.com/-YV-fRtwKmOU/Tt8EQ-6RMDI/AAAAAAAAAH8/R4KoXhlVIo8/s1600/cascada.png"></center> 
+ <center><img src="https://ingenieriadesoftwareutmachala.files.wordpress.com/2017/01/cascada.jpg"></center> 
   <p><b>Las fases están identificadas por separado:</b><br>
 -El análisis y definición de requerimientos<br>
 -Diseño del sistema y software.<br>
@@ -15,12 +15,12 @@ categories: Clases IntroduccionAlSoftware
 -Operación y mantenimiento<br>
 El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</p>
 <h2>Modelo Desarrollo Incremental</h2>
-<img src="http://4.bp.blogspot.com/-FZdM824ILRs/UE9bFzLOW6I/AAAAAAAAADU/OG_K7baAh94/s1600/ModeloIncremental_grafica.jpg">  
+<img src="http://marich.blogspot.es/cache/media/files/01/109/382/2016/03/1459223890_incremental.png">  
 <p>-El costo de atender las necesidades cambiantes de los clientes se reduce.<br>
 -Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.<br>
 -Más rápida entrega y despliegue de software de utilidad para el cliente es posible.</p>
 <h2>Modelo Espiral</h2> 
-  <center><img src="https://aspgems.com/wp-content/uploads/2019/04/modelo-espiral.png"></center>
+  <center><img src="https://rosarioherediaproyectodesoftware.files.wordpress.com/2017/09/dibujo-procesos-proyecto-espiral.jpg"></center>
 <p>Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.<br>
 Las actividades de este modelo son una espiral, cada bucle es una actividad.<br>
 Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.<br>
