@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Sistemas de Informacion"
-date:   2019-12-01 21:13:49 +0530
+date:   2019-12-19 21:13:56 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 <p>Un sistema de información es un conjunto de elementos interrelacionados con el propósito de prestar atención a las demandas de información de una organización, para elevar el nivel de conocimientos que permitan un mejor apoyo a la toma de decisiones y desarrollo de acciones (Peña, 2006).<br>
