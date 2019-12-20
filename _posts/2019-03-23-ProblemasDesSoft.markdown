@@ -13,4 +13,5 @@ Según la definición del IEEE, "software es la suma total de los programas de
 -Software de aplicaciones<br>
 -Software de sistemas</p>
 <h2>Ingeniería del Software</h2>
-<p>La Ingeniería del Software es la rama de la ingeniería que crea y mantiene las aplicaciones de software usando tecnologías y prácticas de las ciencias de la computación, manejo de proyectos, ingeniería, el ámbito de la aplicación, y otros campos.</p>
+<p>Es la rama de la ingeniería que estudia todo lo relacionado con la informática o  sistemas de computación, con una orientación metódica, ordenada y cuantificable al incremento, ejecución y conservación del software..</p>
+<center><img src="https://www.queestudiar.org/wp-content/uploads/2017/10/software-640x300.jpg"></center>
