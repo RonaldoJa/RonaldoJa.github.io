@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "El Software en la actualidad"
-date:   2019-12-01 21:13:41 +0530
+date:   2019-12-19 21:14:01 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 
