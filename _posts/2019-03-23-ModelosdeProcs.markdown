@@ -20,7 +20,7 @@ El principal inconveniente del modelo de la cascada es la dificultad de acomodar
 -Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.<br>
 -Más rápida entrega y despliegue de software de utilidad para el cliente es posible.</p>
 <h2>Modelo Espiral</h2> 
-  <center><img src="https://aspgems.com/wp-content/uploads/2019/04/modelo-espiral.png"></center>
+  <center><img src="https://rosarioherediaproyectodesoftware.files.wordpress.com/2017/09/dibujo-procesos-proyecto-espiral.jpg"></center>
 <p>Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.<br>
 Las actividades de este modelo son una espiral, cada bucle es una actividad.<br>
 Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.<br>
