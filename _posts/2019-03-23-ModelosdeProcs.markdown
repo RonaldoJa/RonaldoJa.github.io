@@ -26,19 +26,19 @@ Las actividades de este modelo son una espiral, cada bucle es una actividad.<br>
 Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.<br>
 El Modelo Espiral mejora el Modelo de Cascada enfatizando la naturaleza iterativa del proceso de diseño. Eso introduce un ciclo de prototipo iterativo. En cada iteración, las nuevas expresiones que son obtenidas transformando otras dadas son examinadas para ver si representan progresos hacia el objetivo.</p>
 <h2>Desarrollo Rápido de Aplicaciones</h2>
-<center><img src="https://image.slidesharecdn.com/desarrollorpidodeaplicacionesrad-120806203731-phpapp02/95/desarrollo-rpido-de-aplicaciones-rad-1-728.jpg?cb=1344286225"></center>
+<center><img src="https://abdonflores.files.wordpress.com/2014/03/modelo-rda.jpg"></center>
 <p>Es un modelo de proceso del ciclo de vida clásico que enfatiza un ciclo de vida de desarrollo extremadamente corto.<br>
 El modelo DRA es una adaptación a alta velocidad del ciclo de vida clásico en el que se logra el desarrollo rápido utilizando un enfoque de construcción basado en componentes. Si se comprenden bien los requisitos y se limita el ámbito del proyecto, el proceso DRA permite al equipo de desarrollo crear un sistema completamente funcional dentro de períodos cortos de tiempo.</p>
 <h2>Orientados a la Reutilización</h2>  
-<center><img src="https://0701.static.prezi.com/preview/v2/wcdvrcdw7zgvywftjbrb5lvqh76jc3sachvcdoaizecfr3dnitcq_3_0.png"></center>
+<center><img src="http://image.slidesharecdn.com/1presentacion1-ingenieriadesoftware1-110302200240-phpapp01/95/1-presentacion1ingenieriadesoftware1-36-728.jpg?cb=1299096191"></center>
 <p>Esta aproximación se basa en la existencia de un número significativo de elementos reutilizables. El proceso de desarrollo, se centra en la integración de estos elementos en un sistema, en lugar de desarrollarlo desde cero.<br>
 Incorpora muchas características del modelo en espiral. Es evolutivo por naturaleza.</p>
 <h2>Orientado a Objetos</h2>
-<img src="https://image.slidesharecdn.com/anlisis-final-100825163628-phpapp01/95/desarrollo-de-software-orienta-a-objetos-6-728.jpg?cb=1282754285">  
+<img src="https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/782/mod_resource/content/8/contenido/img/persistencia_t3.svg">  
 <p>El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.<br>
 Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre sí de acuerdo a los requerimientos establecidos para el sistema de objetos.</p>
 <h2>Procesos o Metodologías Ágiles</h2>  
-<center><img src="https://somossistemas.org/wp-content/uploads/2017/07/kanban-scrum-xp.jpg"></center>
+<center><img src="https://www.blog.andaluciaesdigital.es/wp-content/uploads/2017/04/1024x512metodologiasfernando.jpg"></center>
 <p>Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software:<br>
 1.-Es difícil predecir qué requerimientos de software persistirán y cuáles cambiarán. También es difícil pronosticar cómo cambiarán las prioridades del cliente a medida que avanza el proyecto.<br>
 2.-Para muchos tipos de software, el diseño y la construcción están imbricados.</p>
