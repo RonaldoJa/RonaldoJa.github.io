@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Objetivo a la IS"
-date:   2019-12-01 21:13:45 +0530
+date:   2019-12-19 21:13:58 +0530
 categories: Clases IntroduccionAlSoftware
 ---
   <h2>Objetivo de la IS</h2>
