@@ -5,6 +5,7 @@ date:   2019-12-19 21:13:56 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 <p>Un sistema de información es un conjunto de elementos interrelacionados con el propósito de prestar atención a las demandas de información de una organización, para elevar el nivel de conocimientos que permitan un mejor apoyo a la toma de decisiones y desarrollo de acciones (Peña, 2006).<br>
+  <center><img src="https://www.evaluandoerp.com/wp-content/uploads/2017/12/271-ERP-El-papel-del-sistema-de-informaci%C3%B3n-en-la-mejora-de-los-procesos-01.png"></center>
 Un sistema de información realiza cuatro actividades básicas:<br>
 -Entrada de información<br>
 -Almacenamiento de información<br>
