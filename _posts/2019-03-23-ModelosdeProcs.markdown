@@ -6,7 +6,7 @@ categories: Clases IntroduccionAlSoftware
 ---
 
 <h2>Modelo Cascada</h2>
- <center><img src="http://3.bp.blogspot.com/-YV-fRtwKmOU/Tt8EQ-6RMDI/AAAAAAAAAH8/R4KoXhlVIo8/s1600/cascada.png"></center> 
+ <center><img src="https://ingenieriadesoftwareutmachala.files.wordpress.com/2017/01/cascada.jpg"></center> 
   <p><b>Las fases están identificadas por separado:</b><br>
 -El análisis y definición de requerimientos<br>
 -Diseño del sistema y software.<br>
