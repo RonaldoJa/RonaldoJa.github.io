@@ -1,6 +1,6 @@
-title: Jean F. Blog
-author: Jean Franco
-email: jfintriagoineval@gmail.con
+title: Blog
+author: Ronaldo Aguirre
+email: ronaldojavier0701@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,19 +12,19 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Jean Franco
-  tagline: Estudiante de IS
+  name: Ronaldo Aguirre
+  tagline: Estudiante de UG
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: JeanIntriago7
-    github:  
+    twitter: 
+    github:  RonaldoJa
     # linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
-    facebook: jeanfranco.intriago
+    facebook: ronaldo.aguirreaguirre
     # flickr:   jekyll
     instagram: 
     # linkedin: jekyll
