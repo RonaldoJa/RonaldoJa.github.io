@@ -38,7 +38,7 @@ Incorpora muchas características del modelo en espiral. Es evolutivo por natura
 <p>El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.<br>
 Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre sí de acuerdo a los requerimientos establecidos para el sistema de objetos.</p>
 <h2>Procesos o Metodologías Ágiles</h2>  
-<center><img src="https://somossistemas.org/wp-content/uploads/2017/07/kanban-scrum-xp.jpg"></center>
+<center><img src="https://www.blog.andaluciaesdigital.es/wp-content/uploads/2017/04/1024x512metodologiasfernando.jpg"></center>
 <p>Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software:<br>
 1.-Es difícil predecir qué requerimientos de software persistirán y cuáles cambiarán. También es difícil pronosticar cómo cambiarán las prioridades del cliente a medida que avanza el proyecto.<br>
 2.-Para muchos tipos de software, el diseño y la construcción están imbricados.</p>
