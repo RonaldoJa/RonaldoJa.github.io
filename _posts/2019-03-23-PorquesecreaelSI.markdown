@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "¿Por qué se crea la Ingenieria en Software?"
-date:   2019-12-01 21:13:40 +0530
+date:   2019-12-19 21:14:02 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 
